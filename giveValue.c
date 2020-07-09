@@ -21,7 +21,7 @@ int main()
 		{2,3},
 		"汽车"
 	};
-	printf("正在使用\%s的是%d小组的%d号成员。\n", car.name, car.man.group, car.man.id);
+	printf("正在使用%s的是%d小组的%d号成员。\n", car.name, car.man.group, car.man.id);
 
 	return 0;
 }
