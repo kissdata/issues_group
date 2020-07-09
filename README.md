@@ -8,12 +8,12 @@ some questions provided by friends in group of QQ
 
     主要是C的基础问题，方便回看
 
-#list of group:
+# list of group:
  Revolution C 2861971
  Ways and Examples of C 338191797
 
 
-#friends of group:
+# friends of group:
  Sakura       1204736871
  万物皆可new  130059550
  huidong      1442701429
